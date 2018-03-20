@@ -1,3 +1,4 @@
 <Version: 1.01>
-/data/Map004.json
+/data/Map005.json https://raw.githubusercontent.com/kalelth/upedate-universe-z/master/Map005.json
+/data/Map003.json https://raw.githubusercontent.com/kalelth/upedate-universe-z/master/Map003.json
 <End of Version>
